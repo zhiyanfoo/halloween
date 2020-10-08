@@ -1,4 +1,4 @@
-# Halloween Pumkin Page's Colors cool colors :
+# Halloween Pumkin Page's cool colors :
 
 - Radial : #160909, #160909, #291111
 - Pumkin : #F68632
