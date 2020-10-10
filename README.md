@@ -1,2 +1,10 @@
 # Halloween
-Hey Hello! I decided to make a **Halloween** page, and yes this page is an **open source** project! Super Cool Source! : https://github.com/WebDevSHORTS ( *WebDevSHORTS* )
+This is a simple CSS page, a simple to use repository consisting of only basic and easy commands. Don't forget to Fork or Star if you like it. 
+
+# 📝 Source
+
+- <a href="https://github.com/WebDevSHORTS"> WebDevSHORTS </a>
+
+
+
+
