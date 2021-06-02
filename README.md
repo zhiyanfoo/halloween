@@ -3,7 +3,6 @@
 
 # 📝 Source
 - <a href="https://github.com/WebDevSHORTS"> WebDevSHORTS </a>
-- <a href="https://github.com/AestasFlores"> Our Community </a>
 
 
 
